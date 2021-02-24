@@ -5,7 +5,7 @@ from PIL import Image
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Diabetes Detection",page_icon="/home/anon23/Escritorio/WebAppML/Diabetes/Imagenes/imagen.png")
+st.set_page_config(page_title="Diabetes Detection",page_icon="/home/anon23/Escritorio/WebAppML/Diabetes/Imagenes/learning.png")
 st.write("""
 # Diabetes Detection 
 Detect if someone has diabetes using machine learning and python
